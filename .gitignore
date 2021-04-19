@@ -210,3 +210,6 @@ Thumbs.db
 # profiling data
 .prof
 
+# VSCode
+.vscode
+.vscode/*
